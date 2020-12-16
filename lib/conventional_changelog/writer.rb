@@ -1,4 +1,5 @@
 require 'stringio'
+require 'fileutils'
 
 module ConventionalChangelog
 
